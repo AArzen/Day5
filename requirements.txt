@@ -1,0 +1,4 @@
+sqla-wrapper==4.200628
+smartninja_sql==0.3
+strconv==0.4.2
+python-dateutil==2.8.2
